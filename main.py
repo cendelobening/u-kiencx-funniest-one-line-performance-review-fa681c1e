@@ -21,11 +21,11 @@ Revision history of the line (v1 -> v2 -> v3), all in this session:
 
 import os
 
-# v3 (final) — 134 characters, within the 140-character limit.
+# v5 (final) — 137 characters, within the 140-character limit.
 ENTRY = (
     "Rating: exceeds expectations \u2014 delegates everything, "
-    "understands nothing, takes full credit in standup. "
-    "Promoted to middle management."
+    "understands nothing, takes credit in standup. "
+    "Promoted to middle management — again."
 )
 
 
